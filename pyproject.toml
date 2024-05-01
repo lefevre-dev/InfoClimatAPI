@@ -20,3 +20,8 @@ classifiers = [
 dependencies = [
   "requests"
 ]
+
+
+[project.urls]
+"Homepage" = "https://github.com/lefevre-dev/InfoClimatAPI"
+"Bug Tracker" = "https://github.com/lefevre-dev/InfoClimatAPI/issues"
