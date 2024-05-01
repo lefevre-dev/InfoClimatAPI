@@ -1,5 +1,11 @@
 # InfoClimatAPI
 
+## Package
+https://pypi.org/project/info-climat-api/
+```
+pip install info-climat-api
+```
+
 ## Exemple
 
 ```python
